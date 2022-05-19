@@ -5,15 +5,15 @@
 }
 @font-face {
 	font-family: energizeFont;
-	src: url(../assets/fonts/CoffeeExtra.TTF);
+	src: url(../assets/fonts/CoffeeExtra.ttf);
 }
 @font-face {
 	font-family: ellipseFont;
-	src: url(../assets/fonts/HelloValentina.TTF);
+	src: url(../assets/fonts/HelloValentina.ttf);
 }
 @font-face {
 	font-family: erudietFont;
-	src: url(../assets/fonts/typewcond_regular.OTF);
+	src: url(../assets/fonts/typewcond_regular.otf);
 }
 /* Extra small devices (portrait phones, less than 576px)
    No media query since this is the default in Bootstrap
